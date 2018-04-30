@@ -1,0 +1,22 @@
+{
+  "name": "un-qr",
+  "version": "1.0.0",
+  "description": "PWA para ler e criar QR codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisfs123/Un-QR.git"
+  },
+  "keywords": [
+    "PWA"
+  ],
+  "author": "Luis Coelho <luisfs123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisfs123/Un-QR/issues"
+  },
+  "homepage": "https://github.com/luisfs123/Un-QR#readme"
+}
